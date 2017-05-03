@@ -1,1 +1,1 @@
-hostnamectl set-hostname NEW_HOSTNAME
+hostnamectl set-hostname newlinuxvmname
